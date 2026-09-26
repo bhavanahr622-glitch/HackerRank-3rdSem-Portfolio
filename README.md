@@ -14,3 +14,15 @@ https://www.hackerrank.com/profile/bhavanahr622
 | Compare the Triplets | Basic Implementation    | O(1)            | O(1)             |
 | Sparse Arrays        | Hash Maps/Strings       | O(N+Q)          | O(N)             |
 
+## Screenshots
+
+### HackerRank 3-Star Badge
+![3-Star Badge](Screenshot%20%28221%29.png)
+
+### Accepted Submissions
+![Screenshot 1](Screenshot%20%28200%29.png)
+![Screenshot 2](Screenshot%20%28202%29.png)
+![Screenshot 3](Screenshot%20%28203%29.png)
+![Screenshot 4](Screenshot%20%28204%29.png)
+![Screenshot 5](Screenshot%20%28205%29.png)
+![Screenshot 6](Screenshot%20%28206%29.png)
