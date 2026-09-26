@@ -17,12 +17,24 @@ https://www.hackerrank.com/profile/bhavanahr622
 ## Screenshots
 
 ### HackerRank 3-Star Badge
+hackerrank-3-star-badge.png
 ![3-Star Badge](Screenshot%20%28221%29.png)
 
 ### Accepted Submissions
+diagonal-difference-accepted.png
 ![Screenshot 1](Screenshot%20%28200%29.png)
+
+diagonal-difference-accepted.png
 ![Screenshot 2](Screenshot%20%28202%29.png)
+
+time-conversion-accepted.png
 ![Screenshot 3](Screenshot%20%28203%29.png)
+
+compare-the-triplets-accepted.png
 ![Screenshot 4](Screenshot%20%28204%29.png)
+
+compare-the-triplets-accepted.png
 ![Screenshot 5](Screenshot%20%28205%29.png)
+
+sparse-arrays-accepted.png
 ![Screenshot 6](Screenshot%20%28206%29.png)
